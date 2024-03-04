@@ -1,4 +1,4 @@
-Click this link below to see code
+Click this link to see code
 [Repository](https://github.com/ju186376/ju186376.github.io).
 
 # Getting Started with Create React App
