@@ -1,5 +1,5 @@
 import './App.css';
-import {useState} from 'react'
+import {useState, useCallback} from 'react'
 import DurationExercise from './components/DurationExercise';
 import RepetitionExercise from './components/RepetitionExercise';
 import MapsExercise from './components/Maps'

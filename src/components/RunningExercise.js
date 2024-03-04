@@ -1,5 +1,4 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import StopWatch from './StopWatch';
 
 export default function RunningExercise({ exercise, setMenuScreen }){
     const [laps, setLaps] = useState([]);

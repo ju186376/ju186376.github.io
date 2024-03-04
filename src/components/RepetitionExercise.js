@@ -1,3 +1,5 @@
+import {useState} from 'react';
+
 export default function RepetitionExercise({exercise, setMenuScreen}) {
     let [count, setCount] = useState(0)
     return <div>
